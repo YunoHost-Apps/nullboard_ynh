@@ -1,0 +1,59 @@
+{
+    "name": "Nullboard",
+    "id": "nullboard",
+    "packaging_format": 1,
+    "description": {
+        "en": "Minimalist kanban board, focused on compactness and readability",
+        "fr": "Kanban minimaliste, axé sur la compacité et la lisibilité"
+    },
+    "version": "1.0~ynh1",
+    "url": "https://nullboard.io/preview",
+    "license": "BSD-2-Clause",
+    "maintainer": {
+        "name": "eric_G",
+        "email": ""
+    },
+    "requirements": {
+        "yunohost": ">= 4.0.0"
+    },
+    "multi_instance": true,
+    "services": [
+        "nginx"
+    ],
+    "arguments": {
+        "install" : [
+            {
+                "name": "domain",
+                "type": "domain",
+                "ask": {
+                    "en": "Choose a domain for Nullboard",
+                    "fr": "Choisissez un nom de domaine pour Nullboard"
+                },
+                "example": "domain.org"
+            },
+            {
+                "name": "path",
+                "type": "path",
+                "ask": {
+                    "en": "Choose a path for Nullboard",
+                    "fr": "Choisissez un chemin pour Nullboard"
+                },
+                "example": "/nullboard",
+                "default": "/nullboard"
+            },
+            {
+                "name": "is_public",
+                "type": "boolean",
+                "ask": {
+                    "en": "Is it a public application?",
+                    "fr": "Est-ce une application publique ?"
+                },
+                 "help": {
+                        "en": "If enabled, nullboard will be accessible by people who doesn’t have an account. This can be changed later via the webadmin.",
+                        "fr": "Si cette case est cochée, nullboard sera accessible aux personnes n’ayant pas de compte. Vous pourrez changer ceci plus tard via la webadmin."
+                },
+                "default": true
+            }
+        ]
+    }
+}
