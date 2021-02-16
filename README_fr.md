@@ -28,7 +28,7 @@ Nullboard est une version minimaliste d'un tableau Kanban/gestionnaire de liste 
 ## Liens
 
  * Signaler un bug : https://github.com/YunoHost-Apps/nullboard_ynh/issues
- * Site de l'application : https://nullboard.io/
+ * Site de l'application : https://nullboard.io/preview
  * Dépôt de l’application principale : https://github.com/apankrat/nullboard
  * Site web YunoHost : https://yunohost.org/
 

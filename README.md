@@ -28,7 +28,7 @@ Nullboard is a minimalist take on a kanban board / a task list manager, designed
 ## Links
 
  * Report a bug: https://github.com/YunoHost-Apps/nullboard_ynh/issues
- * App website: https://nullboard.io/
+ * App website: https://nullboard.io/preview
  * Upstream app repository: https://github.com/apankrat/nullboard
  * YunoHost website: https://yunohost.org/
 
