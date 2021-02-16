@@ -18,7 +18,7 @@ Nullboard is a minimalist take on a kanban board / a task list manager, designed
 
 ## Demo
 
-* [Official demo](https://hgentry.github.io/81/)
+* [Official demo](https://nullboard.io/preview)
 
 #### Supported architectures
 
