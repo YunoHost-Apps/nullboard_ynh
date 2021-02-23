@@ -20,10 +20,26 @@ Nullboard is a minimalist take on a kanban board / a task list manager, designed
 
 * [Official demo](https://nullboard.io/preview)
 
+## Documentation
+
+ * Official documentation: https://nullboard.io/preview
+ * YunoHost documentation: If specific documentation is needed, feel free to contribute.
+
+## YunoHost specific features
+
+#### Multi-user support
+
+ * Are LDAP and HTTP auth supported? **No**
+ * Can the app be used by multiple users? **Yes**
+
 #### Supported architectures
 
 * x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/nullboard%20%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/nullboard/)
 * ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/nullboard%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/nullboard/)
+
+## Limitations
+
+* :warning: Uses localStorage for storing boards/lists/notes, so be careful around clearing your cache.
 
 ## Links
 

@@ -20,10 +20,26 @@ Nullboard est une version minimaliste d'un tableau Kanban/gestionnaire de liste 
 
 * [Démo officielle](https://nullboard.io/preview)
 
+## Documentation
+
+ * Documentation officielle : https://nullboard.io/preview
+ * Documentation YunoHost : Si une documentation spécifique est nécessaire, n'hésitez pas à contribuer.
+
+## Caractéristiques spécifiques YunoHost
+
+#### Support multi-utilisateur
+
+* L'authentification LDAP et HTTP est-elle prise en charge ? **Non**
+* L'application peut-elle être utilisée par plusieurs utilisateurs ? **Oui**
+
 #### Architectures supportées
 
 * x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/nullboard%40%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/nullboard/)
 * ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/nullboard%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/nullboard/)
+
+## Limitations
+
+* :warning: Utilise localStorage pour stocker les tableaux/listes/notes, soyez prudent lorsque vous effacez votre cache.
 
 ## Liens
 
