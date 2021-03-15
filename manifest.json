@@ -6,7 +6,7 @@
         "en": "Minimalist kanban board, focused on compactness and readability",
         "fr": "Kanban minimaliste, axé sur la compacité et la lisibilité"
     },
-    "version": "1.0~ynh1",
+    "version": "1.0~ynh2",
     "url": "https://nullboard.io/preview",
     "license": "BSD-2-Clause",
     "maintainer": {
