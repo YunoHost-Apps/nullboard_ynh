@@ -34,8 +34,8 @@ Nullboard est une version minimaliste d'un tableau Kanban/gestionnaire de liste 
 
 #### Architectures supportées
 
-* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/nullboard%40%28Apps%29.svg)](https://ci-apps.yunohost.org/ci/apps/nullboard/)
-* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/nullboard%20%28Apps%29.svg)](https://ci-apps-arm.yunohost.org/ci/apps/nullboard/)
+* x86-64 - [![Build Status](https://ci-apps.yunohost.org/ci/logs/nullboard.svg)](https://ci-apps.yunohost.org/ci/apps/nullboard/)
+* ARMv8-A - [![Build Status](https://ci-apps-arm.yunohost.org/ci/logs/nullboard.svg)](https://ci-apps-arm.yunohost.org/ci/apps/nullboard/)
 
 ## Limitations
 

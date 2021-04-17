@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/apankrat/nullboard/archive/d449da9f54677ef9ef5c066106e78c0b16be996a.tar.gz
-SOURCE_SUM=1126b02a8626e6685c4b6f1892ea43a6e3aa7a04cc91243bea672d10268435e8
+SOURCE_URL=https://github.com/apankrat/nullboard/archive/556147be5da1aaac4d86d2ce4dc11a1bbd10738a.tar.gz
+SOURCE_SUM=b88e4247e83b998d623f1beb880c3233989ecb513dbe74d1f019f22a49e719fd
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
