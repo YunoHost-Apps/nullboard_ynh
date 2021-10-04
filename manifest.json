@@ -6,7 +6,7 @@
         "en": "Minimalist kanban board, focused on compactness and readability",
         "fr": "Kanban minimaliste, axé sur la compacité et la lisibilité"
     },
-    "version": "1.0~ynh3",
+    "version": "1.0~ynh4",
     "url": "https://nullboard.io/preview",
     "upstream": {
         "license": "BSD-2-Clause",
@@ -30,8 +30,7 @@
         "install" : [
             {
                 "name": "domain",
-                "type": "domain",
-                "example": "domain.org"
+                "type": "domain"
             },
             {
                 "name": "path",
