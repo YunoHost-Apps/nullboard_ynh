@@ -17,7 +17,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Minimalist kanban board, focused on compactness and readability
 
-**Shipped version:** 1.0~ynh3
+**Shipped version:** 1.0~ynh4
 
 **Demo:** https://nullboard.io/preview
 
