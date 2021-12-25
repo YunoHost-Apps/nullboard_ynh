@@ -13,7 +13,7 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 Kanban minimaliste, axé sur la compacité et la lisibilité
 
-**Version incluse :** 1.0~ynh4
+**Version incluse :** 1.0~ynh5
 
 **Démo :** https://nullboard.io/preview
 
