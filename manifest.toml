@@ -1,0 +1,54 @@
+packaging_format = 2
+
+id = "nullboard"
+name = "Nullboard"
+description.en = "Minimalist kanban board, focused on compactness and readability"
+description.fr = "Kanban minimaliste, axé sur la compacité et la lisibilité"
+
+version = "1.0~ynh6"
+
+maintainers = ["eric_G"]
+
+[upstream]
+license = "BSD-2-Clause"
+website = "https://nullboard.io/"
+demo = "https://nullboard.io/preview"
+code = "https://github.com/apankrat/nullboard"
+
+[integration]
+yunohost = ">= 11.1.19"
+architectures = "all"
+multi_instance = true
+ldap = false
+sso = false
+disk = "50M"
+ram.build = "50M"
+ram.runtime = "50M"
+
+[install]
+    [install.domain]
+    type = "domain"
+
+    [install.path]
+    type = "path"
+    default = "/nullboard"
+
+    [install.init_main_permission]
+    help.en = "If enabled, Nullboard will be accessible by people who doesn’t have an account. This can be changed later via the webadmin."
+    help.fr = "Si cette case est cochée, Nullboard sera accessible aux personnes n’ayant pas de compte. Vous pourrez changer ceci plus tard via la webadmin."
+    type = "group"
+    default = "visitors"
+
+[resources]
+        [resources.sources.main]
+        url = "https://github.com/apankrat/nullboard/archive/2fcfcb624f90aab2619b2240fed7588721efd00c.tar.gz"
+        sha256 = "da91c55a46fee3421a2aa0936b2c772a16c44763d90cbc5c4c9bcbd86a959b9f"
+        autoupdate.upstream = "https://github.com/apankrat/nullboard"
+        autoupdate.strategy = "latest_github_commit"
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.permissions]
+    main.url = "/"
