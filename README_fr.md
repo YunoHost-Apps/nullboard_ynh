@@ -16,7 +16,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-Kanban minimaliste, axé sur la compacité et la lisibilité
+Minimalist kanban board, focused on compactness and readability
 
 **Version incluse :** 1.0~ynh6
 
@@ -25,12 +25,6 @@ Kanban minimaliste, axé sur la compacité et la lisibilité
 ## Captures d’écran
 
 ![Capture d’écran de Nullboard](./doc/screenshots/screenshot.png)
-
-## Avertissements / informations importantes
-
-## Limitations
-
-* :warning: Utilise localStorage pour stocker les tableaux/listes/notes, soyez prudent lorsque vous effacez votre cache.
 
 ## Documentations et ressources
 

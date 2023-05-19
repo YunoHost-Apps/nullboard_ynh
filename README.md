@@ -26,12 +26,6 @@ Minimalist kanban board, focused on compactness and readability
 
 ![Screenshot of Nullboard](./doc/screenshots/screenshot.png)
 
-## Disclaimers / important information
-
-## Limitations
-
-* :warning: Uses localStorage for storing boards/lists/notes, so be careful around clearing your cache.
-
 ## Documentation and resources
 
 * Official app website: <https://nullboard.io/>
