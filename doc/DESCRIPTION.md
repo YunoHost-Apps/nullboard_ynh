@@ -1,0 +1,1 @@
+Minimalist kanban board, focused on compactness and readability
