@@ -5,15 +5,16 @@ It shall NOT be edited by hand.
 
 # Nullboard pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/nullboard.svg)](https://dash.yunohost.org/appci/app/nullboard) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/nullboard.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/nullboard.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/nullboard.svg)](https://dash.yunohost.org/appci/app/nullboard) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/nullboard.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/nullboard.maintain.svg)
+
 [![Installer Nullboard avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=nullboard)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Nullboard rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Nullboard rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 Kanban minimaliste, axé sur la compacité et la lisibilité
 
@@ -21,9 +22,9 @@ Kanban minimaliste, axé sur la compacité et la lisibilité
 
 **Démo :** https://nullboard.io/preview
 
-## Captures d'écran
+## Captures d’écran
 
-![Capture d'écran de Nullboard](./doc/screenshots/screenshot.png)
+![Capture d’écran de Nullboard](./doc/screenshots/screenshot.png)
 
 ## Avertissements / informations importantes
 
@@ -33,8 +34,8 @@ Kanban minimaliste, axé sur la compacité et la lisibilité
 
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://nullboard.io/>
-* Dépôt de code officiel de l'app : <https://github.com/apankrat/nullboard>
+* Site officiel de l’app : <https://nullboard.io/>
+* Dépôt de code officiel de l’app : <https://github.com/apankrat/nullboard>
 * Documentation YunoHost pour cette app : <https://yunohost.org/app_nullboard>
 * Signaler un bug : <https://github.com/YunoHost-Apps/nullboard_ynh/issues>
 
@@ -50,4 +51,4 @@ ou
 sudo yunohost app upgrade nullboard -u https://github.com/YunoHost-Apps/nullboard_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>
