@@ -5,7 +5,7 @@ name = "Nullboard"
 description.en = "Minimalist kanban board, focused on compactness and readability"
 description.fr = "Kanban minimaliste, axé sur la compacité et la lisibilité"
 
-version = "2023.08.09~ynh6"
+version = "2023.08.09~ynh1"
 
 maintainers = ["eric_G"]
 
@@ -16,7 +16,7 @@ demo = "https://nullboard.io/preview"
 code = "https://github.com/apankrat/nullboard"
 
 [integration]
-yunohost = ">= 11.1.19"
+yunohost = ">= 11.2"
 architectures = "all"
 multi_instance = true
 ldap = false
