@@ -30,7 +30,7 @@ Minimalist kanban board, focused on compactness and readability
 
 * Official app website: <https://nullboard.io/>
 * Upstream app code repository: <https://github.com/apankrat/nullboard>
-* YunoHost documentation for this app: <https://yunohost.org/app_nullboard>
+* YunoHost Store: <https://apps.yunohost.org/app/nullboard>
 * Report a bug: <https://github.com/YunoHost-Apps/nullboard_ynh/issues>
 
 ## Developer info
