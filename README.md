@@ -18,7 +18,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Minimalist kanban board, focused on compactness and readability
 
-**Shipped version:** 2023.09.23~ynh1
+**Shipped version:** 2023.11.05~ynh1
 
 **Demo:** https://nullboard.io/preview
 
@@ -30,7 +30,7 @@ Minimalist kanban board, focused on compactness and readability
 
 * Official app website: <https://nullboard.io/>
 * Upstream app code repository: <https://github.com/apankrat/nullboard>
-* YunoHost documentation for this app: <https://yunohost.org/app_nullboard>
+* YunoHost Store: <https://apps.yunohost.org/app/nullboard>
 * Report a bug: <https://github.com/YunoHost-Apps/nullboard_ynh/issues>
 
 ## Developer info
