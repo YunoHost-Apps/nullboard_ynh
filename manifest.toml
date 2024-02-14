@@ -7,7 +7,7 @@ description.fr = "Kanban minimaliste, axé sur la compacité et la lisibilité"
 
 version = "2023.11.05~ynh1"
 
-maintainers = ["eric_G"]
+maintainers = []
 
 [upstream]
 license = "BSD-2-Clause"
