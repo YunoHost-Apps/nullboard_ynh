@@ -5,7 +5,7 @@ NON debe editarse manualmente.
 
 # Nullboard para YunoHost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/nullboard.svg)](https://dash.yunohost.org/appci/app/nullboard) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/nullboard.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/nullboard.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/nullboard.svg)](https://ci-apps.yunohost.org/ci/apps/nullboard/) ![Estado de funcionamento](https://ci-apps.yunohost.org/ci/badges/nullboard.status.svg) ![Estado de mantemento](https://ci-apps.yunohost.org/ci/badges/nullboard.maintain.svg)
 
 [![Instalar Nullboard con YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=nullboard)
 
@@ -18,7 +18,7 @@ NON debe editarse manualmente.
 
 Minimalist kanban board, focused on compactness and readability
 
-**Versión proporcionada:** 2023.11.05~ynh1
+**Versión proporcionada:** 2023.11.05~ynh2
 
 **Demo:** <https://nullboard.io/preview>
 
