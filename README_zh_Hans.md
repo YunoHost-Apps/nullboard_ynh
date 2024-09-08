@@ -5,7 +5,7 @@
 
 # YunoHost 上的 Nullboard
 
-[![集成程度](https://dash.yunohost.org/integration/nullboard.svg)](https://dash.yunohost.org/appci/app/nullboard) ![工作状态](https://ci-apps.yunohost.org/ci/badges/nullboard.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/nullboard.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/nullboard.svg)](https://ci-apps.yunohost.org/ci/apps/nullboard/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/nullboard.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/nullboard.maintain.svg)
 
 [![使用 YunoHost 安装 Nullboard](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=nullboard)
 
@@ -18,7 +18,7 @@
 
 Minimalist kanban board, focused on compactness and readability
 
-**分发版本：** 2023.11.05~ynh1
+**分发版本：** 2023.11.05~ynh2
 
 **演示：** <https://nullboard.io/preview>
 
